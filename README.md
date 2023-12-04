@@ -21,7 +21,7 @@ Data Analysis Expression (DAX): I created two new columns (Profit & Profit margi
 ![](ProfitMargin.PNG)
 ![](TotalSales.PNG)
 ## DATA ANALYSIS AND VISUALIZATION
-### KEY PERFORMANCE INDICATORS
+### Key Performance Indicators
 - NUMBER OF PRODUCTS -19
 - TOTAL PRODUCTS SOLD -186K
 - TOTAL QUANTITIES SOLD-209K
