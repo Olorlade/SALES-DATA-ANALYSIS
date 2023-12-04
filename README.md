@@ -31,8 +31,8 @@ December is the most productive month with a total sales of $4,613,443.34, while
 ![](SALES_TREND.png)
 ### Product Performance By Sales: 
 In the year 2019, Macbook Pro Laptop generated a high sales of $8.05M, followed by iPhone while ThinkPad Laptop has a high sales of $1,999.98 approximately $2,000 in the year 2020, followed by Macbook Pro Laptop. So, the best three products in terms of sales are Macbook Pro Laptop, iPhone and ThinkPad Laptop.
-![](Top10Products_2019.png)Top10 2019
-![](Top10Products_2020.png)Top10 2020
+![](Top10Products_2019.png)**_Top10 2019_**
+![](Top10Products_2020.png)**_Top10 2020_**
 ### Product Performance By Quantity: 
 AAA Batteries (4-packs) is the most bought product, it sold about 31k quantities, while LG Dryer sold the least of 646 quantities.
 ![](PRODUCTBYQUANTITY.png)
