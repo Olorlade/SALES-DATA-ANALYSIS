@@ -39,7 +39,7 @@ AAA Batteries (4-packs) is the most bought product, it sold about 31k quantities
 ### Sales Performance By City:
 San Francisco is the top city with the highest sales performance in both year 2019 and 2020, while the city with the least sales in the year 2019 is Austin and Seattle in the year 2020. This invariably implies that San Francisco has the highest quantity ordered.
 ![](SalesPerformanceByCity.png)
-CONCLUSION/RECOMMENDATION
+## CONCLUSION/RECOMMENDATION
 There are lots of insights to derive from this dataset. These are just a few of the analysis derived.
 - The company needs to create a good marketing plan, it needs to focus on the cities (e.g. Austin, Seattle) with low sales, likewise the products with low sales.
 - Pop-up sales can be offered to boost sales, especially during the beginning of the year, which is January.
