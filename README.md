@@ -1,8 +1,8 @@
 # SALES-DATA-ANALYSIS
-## PURPOSE
+## OBJECTIVE
 The aim of this project is to analyse the sales data, extract valuable insights and identify trends, top-selling products, and revenue metrics in order to improve business decisions and increase revenue. It showcases my ability to manipulate and derive insights from large datasets, enabling me to make data-driven recommendations for optimizing sales strategies.
-## DESCRIPTION:
-The dataset came in as a text file,uploaded it using the 'Get Data' option in Power BI, and then proceeded to transform the data. To extract valuable insights, I will be looking at the sales trends over time, identify the best-selling products, calculate revenue metrics such as Total Sales, Profit and Profit margins, and create visualizations to present my findings effectively.
+## ABOUT THE DATA:
+The source of the data is from *Kaggle*. The dataset came in as a text file,uploaded it using the 'Get Data' option in Power BI, and then proceeded to transform the data. To extract valuable insights, I will be looking at the sales trends over time, identify the best-selling products, calculate revenue metrics such as Total Sales, Profit and Profit margins, and create visualizations to present my findings effectively.
 ![](Sales_Dataset.PNG)
 ## BUSINESS TASK
 - What is the overall sales trend?
